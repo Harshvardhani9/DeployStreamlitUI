@@ -1,0 +1,23 @@
+{
+    "id": "7428b628-a3b7-43b4-9eb6-5fb6dab4d2f0",
+    "tenant": {
+        "id": "68ef9d42-b69c-4942-be34-a01abecff962",
+        "name": "Informatics Corporation",
+        "created_on": "2023-12-28T05:50:54.530374Z",
+        "modified_on": "2023-12-28T05:50:54.530408Z"
+    },
+    "topic_list": [
+        {
+            "id": "b313e9a3-22a7-44f8-834e-d9253f556ac7",
+            "title": "Describe the different fields within computer science."
+        },
+        {
+            "id": "85534c69-3ae5-44d2-be4d-d3604d78bd9c",
+            "title": "Provide a brief overview of the evolution of computing machines from the 17th century to the 20th century, highlighting key milestones"
+        },
+        {
+            "id": "b7c03913-62b2-4de3-a0f9-0e85c1820cfd",
+            "title": "Explain the historical significance of Ada Lovelace's contribution to computer science in 1843."
+        }
+    ]
+}

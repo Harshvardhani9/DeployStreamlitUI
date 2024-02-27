@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "start": 0.0,
+        "end": 6.0,
+        "text": "Different fields within computer science.",
+        "summary": "Computer science encompasses various fields like algorithms, data structures, artificial intelligence, and more.",
+        "conviction_score": 85.7,
+        "topic_accuracy_score": 80,
+        "text_conviction_score": 88.5,
+        "audio_conviction_score": 76.3,
+        "video_conviction_score": 91.1
+    },
+    {
+        "id": 2,
+        "start": 7.0,
+        "end": 14.0,
+        "text": "Algorithms and their applications.",
+        "summary": "Algorithms play a crucial role in problem-solving and can be applied in various domains.",
+        "conviction_score": 79.2,
+        "topic_accuracy_score": 85,
+        "text_conviction_score": 83.0,
+        "audio_conviction_score": 62.5,
+        "video_conviction_score": 76.0
+    },
+    {
+        "id": 3,
+        "start": 15.0,
+        "end": 22.0,
+        "text": "Data structures and their importance.",
+        "summary": "Understanding data structures is essential for efficient data organization and manipulation.",
+        "conviction_score": 83.5,
+        "topic_accuracy_score": 75,
+        "text_conviction_score": 91.0,
+        "audio_conviction_score": 72.4,
+        "video_conviction_score": 81.0
+    },
+    {
+        "id": 4,
+        "start": 23.0,
+        "end": 30.0,
+        "text": "Artificial Intelligence overview.",
+        "summary": "Artificial Intelligence involves creating intelligent systems capable of performing tasks that typically require human intelligence.",
+        "conviction_score": 80.1,
+        "topic_accuracy_score": 80,
+        "text_conviction_score": 86.0,
+        "audio_conviction_score": 68.0,
+        "video_conviction_score": 76.5
+    },
+    {
+        "conviction_score": 74.0,
+        "topic_accuracy_score": 73.5,
+        "text_conviction_score": 88.0,
+        "audio_conviction_score": 55.0,
+        "video_conviction_score": 50.0
+    },
+    {
+        "job_id": "b313e9a3-22a7-44f8-834e-d9253f556ac7"
+    }
+]

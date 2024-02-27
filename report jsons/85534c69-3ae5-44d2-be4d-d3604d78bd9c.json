@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "start": 0.0,
+        "end": 3.4,
+        "text": " Evolution of computing machines.",
+        "summary": "In the 17th century, people began creating machines like calculators to perform mathematical tasks.",
+        "conviction_score": 76.80026315789473,
+        "topic_accuracy_score": 75,
+        "text_conviction_score": 90,
+        "audio_conviction_score": 18.9,
+        "video_conviction_score": 61.40350877192983
+    },
+    {
+        "id": 2,
+        "start": 10.4,
+        "end": 17.28,
+        "text": " William Schikers and God-Free Lebanese developed machine calculators and Charles Babbage designed early programmable machines including the analytical engine.",
+        "summary": "These innovations laid the groundwork for modern computers by introducing concepts like punched cards for programming.",
+        "conviction_score": 74.02497826086957,
+        "topic_accuracy_score": 75,
+        "text_conviction_score": 85,
+        "audio_conviction_score": 42.13,
+        "video_conviction_score": 33.91304347826087
+    },
+    {
+        "id": 3,
+        "start": 29.080000000000002,
+        "end": 35.96,
+        "text": " In the 19th century, Harmon Hallorith created tabular iterators for statistical tasks, leading to machines that could do more than just mathematical calculations.",
+        "summary": "By the mid 20th century, powerful computers like any act emerged shifting the meaning of the world computer to machines rather than human calculators.",
+        "conviction_score": 73.98218421052631,
+        "topic_accuracy_score": 75,
+        "text_conviction_score": 80,
+        "audio_conviction_score": 40.17,
+        "video_conviction_score": 59.64912280701754
+    },
+    {
+        "id": 4,
+        "start": 52.04,
+        "end": 57.64,
+        "text": " The institutions like IBM plays significant role establishing labs and paving the ways for computer science as an academic discipline by the mid 20th century.",
+        "summary": "",
+        "conviction_score": 70.5398064516129,
+        "topic_accuracy_score": 75,
+        "text_conviction_score": 75,
+        "audio_conviction_score": 33.78,
+        "video_conviction_score": 43.01075268817204
+    },
+    {
+        "conviction_score": 73.575,
+        "topic_accuracy_score": 75,
+        "text_conviction_score": 82,
+        "audio_conviction_score": 33.0,
+        "video_conviction_score": 49.0
+    },
+    {
+        "job_id": "85534c69-3ae5-44d2-be4d-d3604d78bd9c"
+    }
+]

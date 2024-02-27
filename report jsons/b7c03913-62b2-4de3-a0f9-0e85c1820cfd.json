@@ -1,0 +1,60 @@
+[
+    {
+        "id": 1,
+        "start": 0.0,
+        "end": 6.0,
+        "text": "Ada Lovelace's contribution to computer science.",
+        "summary": "Ada Lovelace made significant contributions to computer science, particularly through her work on Charles Babbage's Analytical Engine.",
+        "conviction_score": 95.0,
+        "topic_accuracy_score": 85,
+        "text_conviction_score": 97.5,
+        "audio_conviction_score": 85.0,
+        "video_conviction_score": 90.5
+    },
+    {
+        "id": 2,
+        "start": 7.0,
+        "end": 14.0,
+        "text": "The impact of Ada Lovelace's ideas.",
+        "summary": "Ada Lovelace's ideas laid the groundwork for modern computer programming and she is regarded as the first computer programmer.",
+        "conviction_score": 92.0,
+        "topic_accuracy_score": 90,
+        "text_conviction_score": 94.0,
+        "audio_conviction_score": 82.5,
+        "video_conviction_score": 89.0
+    },
+    {
+        "id": 3,
+        "start": 15.0,
+        "end": 22.0,
+        "text": "Ada Lovelace's legacy in computing.",
+        "summary": "Ada Lovelace's work continues to inspire and influence advancements in computing and programming languages.",
+        "conviction_score": 88.5,
+        "topic_accuracy_score": 80,
+        "text_conviction_score": 91.0,
+        "audio_conviction_score": 78.0,
+        "video_conviction_score": 85.0
+    },
+    {
+        "id": 4,
+        "start": 23.0,
+        "end": 30.0,
+        "text": "Ada Lovelace's visionary ideas.",
+        "summary": "Ada Lovelace's visionary concepts shaped the future of computing and set the stage for subsequent technological innovations.",
+        "conviction_score": 89.0,
+        "topic_accuracy_score": 85,
+        "text_conviction_score": 92.5,
+        "audio_conviction_score": 75.0,
+        "video_conviction_score": 82.0
+    },
+    {
+        "conviction_score": 80.0,
+        "topic_accuracy_score": 71,
+        "text_conviction_score": 85.0,
+        "audio_conviction_score": 62.8,
+        "video_conviction_score": 73.4
+    },
+    {
+        "job_id": "b7c03913-62b2-4de3-a0f9-0e85c1820cfd"
+    }
+]

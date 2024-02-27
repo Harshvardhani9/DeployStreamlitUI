@@ -1,0 +1,204 @@
+{
+    "id": "3d3b8255-4537-441a-9498-597d5bd7b43d",
+    "unit": {
+        "id": "7428b628-a3b7-43b4-9eb6-5fb6dab4d2f0",
+        "name": "Computer"
+    },
+    "report_topic_list": [
+        {
+            "id": "c24a6598-1599-4d7d-8a34-dcfefeecb2de",
+            "report_status": "REPORT_GENERATED",
+            "report_json": [
+                {
+                    "id": 1,
+                    "end": 19.92,
+                    "text": " Computer science covers various areas that are essential when understanding and developing technology. It includes understanding how computer works, designing efficient ways to solve problems using algorithms and data structures and creating software using different programming languages.",
+                    "start": 0.0,
+                    "summary": "Computer science encompasses essential areas for understanding and developing technology, including computer workings, algorithm design, and software creation.",
+                    "conviction_score": 76.39928096676738,
+                    "topic_accuracy_score": 70,
+                    "text_conviction_score": 95,
+                    "audio_conviction_score": 37.54,
+                    "video_conviction_score": 51.963746223564954
+                },
+                {
+                    "id": 2,
+                    "end": 44.08,
+                    "text": "Computer scientists also study the building block of computer and their structure along with areas like software engineering, artificial intelligence, computer network, databases and how humans interact with computer. Additionally, computer science explores computer graphics, operating system and numerical calculations.",
+                    "start": 19.92,
+                    "summary": "Computer scientists study computer structure, software engineering, artificial intelligence, computer networks, databases, human-computer interaction, computer graphics, operating systems, and numerical calculations.",
+                    "conviction_score": 74.53572388059702,
+                    "topic_accuracy_score": 70,
+                    "text_conviction_score": 90,
+                    "audio_conviction_score": 36.61,
+                    "video_conviction_score": 52.736318407960205
+                },
+                {
+                    "id": 3,
+                    "end": 47.959999999999994,
+                    "text": "All these fields contribute to different aspects of technology and its applications.",
+                    "start": 44.08,
+                    "summary": "These fields contribute to various aspects of technology and its applications.",
+                    "conviction_score": 72.26026923076924,
+                    "topic_accuracy_score": 70,
+                    "text_conviction_score": 85,
+                    "audio_conviction_score": 13.09,
+                    "video_conviction_score": 63.07692307692307
+                },
+                {
+                    "conviction_score": 74.325,
+                    "topic_accuracy_score": 70,
+                    "text_conviction_score": 90,
+                    "audio_conviction_score": 29.0,
+                    "video_conviction_score": 55.0
+                }
+            ],
+            "topic": {
+                "id": "b313e9a3-22a7-44f8-834e-d9253f556ac7",
+                "title": "Describe the different fields within computer science."
+            }
+        },
+        {
+            "id": "86448300-4f2a-43ba-a9a0-750243edaa50",
+            "report_status": "REPORT_GENERATED",
+            "report_json": [
+                {
+                    "id": 1,
+                    "end": 3.4,
+                    "text": " Evolution of computing machines.",
+                    "start": 0.0,
+                    "summary": "In the 17th century, people began creating machines like calculators to perform mathematical tasks.",
+                    "conviction_score": 76.80026315789473,
+                    "topic_accuracy_score": 75,
+                    "text_conviction_score": 90,
+                    "audio_conviction_score": 18.9,
+                    "video_conviction_score": 61.40350877192983
+                },
+                {
+                    "id": 2,
+                    "end": 17.28,
+                    "text": " William Schikers and God-Free Lebanese developed machine calculators and Charles Babbage designed early programmable machines including the analytical engine.",
+                    "start": 10.4,
+                    "summary": "These innovations laid the groundwork for modern computers by introducing concepts like punched cards for programming.",
+                    "conviction_score": 74.02497826086957,
+                    "topic_accuracy_score": 75,
+                    "text_conviction_score": 85,
+                    "audio_conviction_score": 42.13,
+                    "video_conviction_score": 33.91304347826087
+                },
+                {
+                    "id": 3,
+                    "end": 35.96,
+                    "text": " In the 19th century, Harmon Hallorith created tabular iterators for statistical tasks, leading to machines that could do more than just mathematical calculations.",
+                    "start": 29.080000000000002,
+                    "summary": "By the mid 20th century, powerful computers like any act emerged shifting the meaning of the world computer to machines rather than human calculators.",
+                    "conviction_score": 73.98218421052631,
+                    "topic_accuracy_score": 75,
+                    "text_conviction_score": 80,
+                    "audio_conviction_score": 40.17,
+                    "video_conviction_score": 59.64912280701754
+                },
+                {
+                    "id": 4,
+                    "end": 57.64,
+                    "text": " The institutions like IBM please significant role establishing labs and paving the ways for computer science as an academic discipline by the mid 20th century.",
+                    "start": 52.04,
+                    "summary": "",
+                    "conviction_score": 70.5398064516129,
+                    "topic_accuracy_score": 75,
+                    "text_conviction_score": 75,
+                    "audio_conviction_score": 33.78,
+                    "video_conviction_score": 43.01075268817204
+                },
+                {
+                    "conviction_score": 73.575,
+                    "topic_accuracy_score": 75,
+                    "text_conviction_score": 82,
+                    "audio_conviction_score": 33.0,
+                    "video_conviction_score": 49.0
+                }
+            ],
+            "topic": {
+                "id": "85534c69-3ae5-44d2-be4d-d3604d78bd9c",
+                "title": "Provide a brief overview of the evolution of computing machines from the 17th century to the 20th century, highlighting key milestones"
+            }
+        },
+        {
+            "id": "3bc44a5d-d7f3-4713-bc20-ea224788a449",
+            "report_status": "REPORT_GENERATED",
+            "report_json": [
+                {
+                    "id": 1,
+                    "end": 8.92,
+                    "text": " Adal Lovelace, Root and Algorithm, a step-by-step set of instruction for calculating but not least numbers.",
+                    "start": 0.0,
+                    "summary": "The segment introduces Ada Lovelace and the concept of algorithms as a set of instructions for calculations.",
+                    "conviction_score": 80.48796308724832,
+                    "topic_accuracy_score": 80,
+                    "text_conviction_score": 95,
+                    "audio_conviction_score": 38.87,
+                    "video_conviction_score": 38.92617449664429
+                },
+                {
+                    "id": 2,
+                    "end": 18.36,
+                    "text": " It was first published algorithm specifically meant to be used on a machine, particularly Charles Babbage's analytical engine.",
+                    "start": 8.92,
+                    "summary": "Ada Lovelace's algorithm was the first published one meant for use on a machine, specifically Charles Babbage's analytical engine.",
+                    "conviction_score": 81.50471337579617,
+                    "topic_accuracy_score": 80,
+                    "text_conviction_score": 90,
+                    "audio_conviction_score": 41.4,
+                    "video_conviction_score": 75.79617834394905
+                },
+                {
+                    "id": 3,
+                    "end": 31.04,
+                    "text": " Her work highlighted the potential for machines to perform complex task using algorithms.",
+                    "start": 18.36,
+                    "summary": "Ada Lovelace's work emphasized the potential for machines to perform complex tasks using algorithms.",
+                    "conviction_score": 79.46483886255925,
+                    "topic_accuracy_score": 80,
+                    "text_conviction_score": 85,
+                    "audio_conviction_score": 35.92,
+                    "video_conviction_score": 77.25118483412322
+                },
+                {
+                    "id": 4,
+                    "end": 46.480000000000004,
+                    "text": " Ovalace insights into programming and algorithms were ahead of her time as she envisioned the particular application of programming in the future development of computers.",
+                    "start": 31.04,
+                    "summary": "Ada Lovelace's insights into programming and algorithms were ahead of her time, envisioning their future application in computer development.",
+                    "conviction_score": 83.10290625,
+                    "topic_accuracy_score": 80,
+                    "text_conviction_score": 92,
+                    "audio_conviction_score": 41.98,
+                    "video_conviction_score": 86.71875
+                },
+                {
+                    "id": 5,
+                    "end": 46.480000000000004,
+                    "text": " Her contribution is considered crucial in the history of computer science, emphasizing the importance of algorithm and programming in the evaluation of computer machines.",
+                    "start": 46.480000000000004,
+                    "summary": "Ada Lovelace's contribution is crucial in the history of computer science, emphasizing the importance of algorithms and programming in evaluating computer machines.",
+                    "conviction_score": 75.5,
+                    "topic_accuracy_score": 80,
+                    "text_conviction_score": 88,
+                    "audio_conviction_score": 50.0,
+                    "video_conviction_score": 0
+                },
+                {
+                    "conviction_score": 80.975,
+                    "topic_accuracy_score": 80,
+                    "text_conviction_score": 90,
+                    "audio_conviction_score": 41.0,
+                    "video_conviction_score": 69.0
+                }
+            ],
+            "topic": {
+                "id": "b7c03913-62b2-4de3-a0f9-0e85c1820cfd",
+                "title": "Explain the historical significance of Ada Lovelace's contribution to computer science in 1843."
+            }
+        }
+    ]
+}
